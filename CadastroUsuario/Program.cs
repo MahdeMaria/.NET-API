@@ -11,9 +11,9 @@ builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new OpenApiInfo
     {
+       Title = "Cadastro de Usuário API",
         Version = "v1",
-        Title = "User API",
-        Description = "API for managing a list of users.",
+        Description = "API para gerenciar cadastro de usuários.",
     });
 });
 

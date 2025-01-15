@@ -11,15 +11,6 @@ Acões:
 - Editar Usuario
 - Deletar Usuario
 
-Program.cs
-- Listar Usuários: Exibe os usuários cadastrados.
-- Cadastrar Usuário: Recebe nome e idade, e armazena na lista.
-- Sair: Encerra a aplicação.
-
-Classe Usuario
-- Propriedades: Nome (string), Idade (int).
-- Construtor: Inicializa Nome e Idade.
-
 # Como rodar:
 
 1 - Buildar:
